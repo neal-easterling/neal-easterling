@@ -12,4 +12,14 @@ Full-stack web developer with skills in animation and game development who bring
 <a href="https://www.youtube.com/@apps4everyone" ><img src="https://neal-easterling.github.io/img/svg/youtube-sq-fill.svg" width=30/></a>
 
 ### Coding Languages and Frameworks
+
+
+### Asset Development
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width=35 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width=35 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width=35/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width=35 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=35/>          
+          
           
