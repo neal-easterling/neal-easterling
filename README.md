@@ -7,5 +7,5 @@ Full-stack web developer with skills in animation and game development who bring
 ### Social Links
 
 <a href="https://www.linkedin.com/in/neal-easterling/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30 /></a>
-<a href="https://www.instagram.com/neal.easterling/" ><img src="https://github.com/neal-easterling/neal-easterling.github.io/blob/main/img/svg/instagram-sq-fill.svg" width=30/></a>
+<a href="https://www.instagram.com/neal.easterling/" ><img src="https://neal-easterling.github.io/img/svg/instagram-sq-fill.svg" width=30/></a>
           
