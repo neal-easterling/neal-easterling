@@ -13,14 +13,13 @@ Full-stack web developer with skills in animation and game development who bring
 
 ### Coding Languages and Frameworks
 
-![html]()  ![css3]()  ![javascript]()  ![MongoDB]()  ![ExpressJS]()  ![ReactJS]()  ![nodejs]()  
+![html](https://neal-easterling.github.io/img/svg/color/html5-color.svg)  ![css3](https://neal-easterling.github.io/img/svg/color/css3-color.svg)  ![javascript](https://neal-easterling.github.io/img/svg/color/javascript-color.svg)  ![MongoDB](https://neal-easterling.github.io/img/svg/color/mongodb-color.svg)  ![ExpressJS](https://neal-easterling.github.io/img/svg/color/expressjs-color.svg)  ![ReactJS](https://neal-easterling.github.io/img/svg/color/reactjs-color.svg)  ![nodejs](https://neal-easterling.github.io/img/svg/color/nodejs-color.svg)  
 
 
 ### Asset Development
 
+![Adobe Photoshop](https://neal-easterling.github.io/img/svg/color/photoshop-color.svg)  ![Adobe Illustrator](https://neal-easterling.github.io/img/svg/color/illustrator-color.svg)  ![Adobe Premiere](https://neal-easterling.github.io/img/svg/color/premiere-color.svg)  ![Adobe After Effects](https://neal-easterling.github.io/img/svg/color/after-effects-color.svg)  ![Figma](https://neal-easterling.github.io/img/svg/color/figma-color.svg)  ![Blender](https://neal-easterling.github.io/img/svg/color/blender-color.svg)
 
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width=40 />          
+         
           
           
