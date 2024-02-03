@@ -2,7 +2,7 @@
 ``` Fullstack Webdev / Digital Artist / Instructional Coach ```
 
 
-Full-stack web developer with skills in animation and game development who brings over 15 years of experience in event planning, sales, and digital media development in graphics, video, and web through roles in art administration. Additionally, have utilized strong communication, management, and collaboration skills during 7+ years of teaching K-12 and adult professional development in technology.
+Full-stack web developer who brings over 15 years of experience in digital media development in graphics, video, and web, event planning, and sales through roles in arts administration and marketing. Additionally, have utilized strong communication, management, and collaboration skills during 7+ years of teaching K-12 and adult professional development in technology.
 
 ### Coding Languages and Frameworks
 
